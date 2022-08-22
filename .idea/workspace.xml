@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17e110d0-af01-45e0-b6c8-05888d4ddfba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyTestSwagLabs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyTestSwagLabs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainStuff/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/MainStuff/main_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleTest/test_Final.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleTest/test_Final.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/Login_succes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/add_product_succes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/checkout_fail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/checkout_succes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/fail_login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/products_fail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/products_succes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/remover_product_fail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/remover_product_succes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/userblock_succes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/usernotblock_succes.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ddwe3d4vjTRpWqwT2oVwIwoslp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bryan/Desktop/pyTestSwagLabs&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python tests.pytest for test_Final.TestSearh.test_login_fail_empty">
+    <configuration name="pytest for test_Final.TestSearh.test_fail_add_contacts" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pyTestSwagLabs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Final.TestSearh.test_fail_add_contacts&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_Final.TestSearh.test_login_fail" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pyTestSwagLabs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Final.TestSearh.test_login_fail&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_Final.TestSearh.test_login_fail_empty" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pyTestSwagLabs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Final.TestSearh.test_login_fail_empty&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_Final.TestSearh.test_login_succes" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pyTestSwagLabs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Final.TestSearh.test_login_succes&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_Final.TestSearh.test_success_add_contacts" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pyTestSwagLabs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Final.TestSearh.test_success_add_contacts&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_Final.TestSearh.test_login_fail_empty" />
+        <item itemvalue="Python tests.pytest for test_Final.TestSearh.test_login_fail" />
+        <item itemvalue="Python tests.pytest for test_Final.TestSearh.test_success_add_contacts" />
+        <item itemvalue="Python tests.pytest for test_Final.TestSearh.test_fail_add_contacts" />
+        <item itemvalue="Python tests.pytest for test_Final.TestSearh.test_login_succes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17e110d0-af01-45e0-b6c8-05888d4ddfba" name="Changes" comment="" />
+      <created>1661042361013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661042361013</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="34698866-c74c-4a89-8f3a-c413c7095fcb">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="34698866-c74c-4a89-8f3a-c413c7095fcb" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+</project>
